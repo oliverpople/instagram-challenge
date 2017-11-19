@@ -22,3 +22,22 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# USER STORIES
+
+As a User
+So I can see what other users are doing
+I can view all photos on Instagram clone
+
+As a User
+So I can share my own a photo
+I can add a new picture to Instagram clone
+
+As a User
+So I can express my opinion of a picture
+I can leave a comment on that picture
+
+As a User
+So I can quickly express my positive opinion of a picture
+I want to leave a 'like' on that picture
